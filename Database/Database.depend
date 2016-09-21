@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1474219340 source:h:\bmsce\v sem\c ++\programs\database\main.cpp
+
+1473743053 source:h:\bmsce\v sem\c ++\programs\database\memberfunction.cpp
+	<iostream>
+
+1474220092 source:h:\bmsce\v sem\c ++\programs\database\excel_writing_trial.cpp
+	<iostream>
+	<fstream>
+
+1474451631 source:h:\bmsce\v sem\c ++\programs\database\text_reading_trial.cpp
+
+1474220362 source:h:\bmsce\v sem\c ++\programs\database\text_writing_trial.cpp
+
+1474310708 source:h:\bmsce\v sem\c ++\programs\database\text_writing_1.cpp
+
